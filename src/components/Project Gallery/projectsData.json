@@ -1,0 +1,49 @@
+[
+    {
+      "title": "pickFlix",
+      "deployedLink": "https://fishmon.github.io/pickFlix/",
+      "githubLink": "https://github.com/fishmon/pickFlix",
+      "image": "/src/images/pickFlix-img.gif"
+      
+    },
+    
+    {
+        "title": "Password Generator",
+      "deployedLink": "https://natalie-0073.github.io/password-generator/",
+      "githubLink": "https://github.com/natalie-0073/password-generator",
+      "image": "/src/images/password-generator-img.png"
+     
+    },
+    {
+        "title": "Weather Dashboard",
+        "deployedLink": "https://natalie-0073.github.io/weather-dashboard/",
+        "githubLink": "https://github.com/natalie-0073/weather-dashboard",
+        "image": "/src/images/weather-dashboard-img.png"
+        
+      },
+      
+      {
+          "title": "Daily Planner",
+        "deployedLink": "https://natalie-0073.github.io/daily-planner/",
+        "githubLink": "https://github.com/natalie-0073/daily-planner",
+        "image": "/src/images/daily-planner-img.png"
+       
+      },
+      {
+        "title": "React Space Website",
+        "deployedLink": "https://sensational-twilight-9c66eb.netlify.app",
+        "githubLink": "https://github.com/natalie-0073/space-project",
+        "image": "/src/images/space-project-img.png"
+       
+      },
+      
+      {
+          "title": "React Dictionary App",
+        "deployedLink": "https://animated-choux-b862c6.netlify.app/",
+        "githubLink": "https://github.com/natalie-0073/react-dictionary-app",
+        "image": "/src/images/dictionary-img.png"
+        
+      }
+
+  ]
+  

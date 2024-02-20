@@ -1,0 +1,23 @@
+.project-image{
+    width: 500px;
+}
+.project-link{
+    text-decoration: none;
+    color: var(--text-color);
+}
+.project-link:hover{
+    text-decoration: underline;
+    transition: .3s all;
+    color: var(--accent-color);
+}
+.links{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+@media(max-width:680px){
+    .project-image{
+        max-width: 250px;
+    }
+}

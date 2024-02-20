@@ -1,0 +1,8 @@
+
+.app{
+    min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+    max-width: 80%;
+    margin: 0 auto;
+    color: var(--text-color);
+}
