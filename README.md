@@ -21,8 +21,8 @@ Navigate to the project directory.
 Install dependencies using npm install.
 
 ## Screenshot
+![my portfolio](image.png)
 
+## Website link: https://velvety-daffodil-dfa763.netlify.app/
 
-## Website link
-
-
+## GitHub Repo: https://github.com/natalie-0073/react-portfolio
